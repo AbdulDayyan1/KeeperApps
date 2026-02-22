@@ -152,7 +152,7 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at [shrishrimalrushabh@gmail.com](shrishrimalrushabh@gmail.com).
+For any questions or feedback, feel free to reach out at [abduldayyan0077@gmail.com](abduldayyan0077@gmail.com).
 
 ---
 
